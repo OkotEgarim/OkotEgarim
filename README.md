@@ -1,9 +1,8 @@
 # 👋 Hey there! I'm Jason
 
 <div>
-  <a href="https://github.com/OkotEgarim/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=blue-green" alt="GitHub Streak Stats">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=blue-green" alt="GitHub Streak Stats">
+  <br>
   <a href="https://github.com/OkotEgarim?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=blue-green&layout=compact" alt="Top Langs">
   </a>
