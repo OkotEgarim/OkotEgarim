@@ -2,10 +2,10 @@
 
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=one_dark_pro" alt="GitHub Streak Stats">
-<br>
 <a href="https://github.com/OkotEgarim?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=one_dark_pro&layout=compact" alt="Top Langs">
 </a>
+<br>
 
 ## Skills
 
