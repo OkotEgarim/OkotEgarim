@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1000&color=7289DA&vCenter=true&width=435&lines=Bonjour%2C+je+suis+Jason%2CKOENIG)](https://git.io/typing-svg)
-
-<br />
-
-Tu veux voir mes projets perso ? Découvre-les [ici](https://tonlien-vers-les-projets.com)!
-
-<br />
+# 👋 Hey there! I'm Jason
 
 <div>
   <a href="https://github.com/ton-username/github-readme-streak-stats">
@@ -15,7 +9,9 @@ Tu veux voir mes projets perso ? Découvre-les [ici](https://tonlien-vers-les-pr
   </a>
 </div>
 
-# Langages & Outils
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkotEgarim&show_icons=true&theme=radical&hide=prs,issues)
+
+## Skills
 
 ### Langages de Programmation
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,11 +23,13 @@ Tu veux voir mes projets perso ? Découvre-les [ici](https://tonlien-vers-les-pr
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logoColor=white)
 
 ### Frameworks & Librairies
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Outils & Versionning
+### Tools & Versionning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff)
