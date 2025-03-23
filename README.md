@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Jason!
-
-
 I'm studying at Epitech Strasbourg and I'm interested in software development.
 
 ## Statistics
@@ -27,4 +25,3 @@ I'm studying at Epitech Strasbourg and I'm interested in software development.
 ## Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
