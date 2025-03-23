@@ -23,7 +23,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Frameworks & Librairies
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
