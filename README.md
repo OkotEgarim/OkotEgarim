@@ -1,24 +1,23 @@
-# 👋 Hey there! I'm Jason
+# 👋 Hi! I'm Jason.
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=one_dark_pro" alt="GitHub Streak Stats">
-  <a href="https://github.com/OkotEgarim?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=one_dark_pro&layout=compact" alt="Top Langs">
-  </a>
-</div>
+## ⚙️ Skills
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=one_dark_pro" alt="GitHub Streak Stats">
+<a href="https://github.com/OkotEgarim?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=one_dark_pro&layout=compact" alt="Top Langs">
+</a>
 
-## Skills
-
-### Languages
+### Code
+#### ✅ Comfortable with
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### 🛠 Can handle
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Frameworks
