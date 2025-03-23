@@ -1,12 +1,11 @@
 # 👋 Hey there! I'm Jason
 
-<div style="width: 100vw; display: flex; flex-direction: column; justify-content: center; gap: 2em; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=one_dark_pro" alt="GitHub Streak Stats">
-  <br>
-  <a href="https://github.com/OkotEgarim?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=one_dark_pro&layout=compact" alt="Top Langs">
-  </a>
-</div>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OkotEgarim&theme=one_dark_pro" alt="GitHub Streak Stats">
+<br>
+<a href="https://github.com/OkotEgarim?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=one_dark_pro&layout=compact" alt="Top Langs">
+</a>
 
 ## Skills
 
